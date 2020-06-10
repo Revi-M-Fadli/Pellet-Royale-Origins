@@ -23,17 +23,20 @@ Eventually, there exists mutualism between these kinds of creature, where ones f
 Although this was partly intentional(I added absolute coordinates to help creatures from getting lost when encountering world boundaries), creatures still need to learn how to exploit these teleports by themselves. Quite satisfyingly, they did.
 
 ## To-do:
-1. Very Soon
+#### Very Soon
+
   1.1 Optimize a bit, replace copy() with set()
   1.2 Pop size 64
   1.3 Circular buffer to alleviate crashing(probably caused by heap bloating due to new objects keep beign created)
   
-2. Soon
+#### Soon
+
   2.1 Nesterov momentum steering
   2.2 Rock-paper-scissors food
   2.3 Leapfrog food
   
   
-3. Someday, Interesting Ideas
+#### Someday, Interesting Ideas
+
   3.1 Sexual reproduction
   3.2 Traditional RL or evolution strategies

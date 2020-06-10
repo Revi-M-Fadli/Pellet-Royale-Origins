@@ -26,17 +26,22 @@ Although this was partly intentional(I added absolute coordinates to help creatu
 #### Very Soon
 
   1.1 Optimize a bit, replace copy() with set()
+  
   1.2 Pop size 64
+  
   1.3 Circular buffer to alleviate crashing(probably caused by heap bloating due to new objects keep beign created)
   
 #### Soon
 
   2.1 Nesterov momentum steering
+  
   2.2 Rock-paper-scissors food
+  
   2.3 Leapfrog food
   
   
 #### Someday, Interesting Ideas
 
   3.1 Sexual reproduction
+  
   3.2 Traditional RL or evolution strategies

@@ -1,6 +1,6 @@
 # Pellet-Royale-Origins
 ## What is it?
-An Alife/machine learning neo-Braitenberg ecosystem simulator with neural network agents. 
+An Alife/machine learning neo-Braitenberg ecosystem simulator with neural network agents. Inspired by http://exploreai.blogspot.com/
 
 It is currently a minimum viable product(MVP) that I rolled out ASAP to feel more productive, so stay tuned for updates!
 
